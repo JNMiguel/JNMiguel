@@ -1,5 +1,4 @@
 ### Hi there 👋
-https://github.com/JNMiguel/skills-introduction-to-github
 
 - 🔭 Estoy trabajando actualmente en el desarrollo de una aplicación con Node, python, java, C#, C++, Cobol.
 - 🌱 Estoy aprendiendo fuertemente AWS e Ingenieria DevOps.
